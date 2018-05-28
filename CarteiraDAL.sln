@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarteiraDAL", "CarteiraDAL\CarteiraDAL.csproj", "{6DB2EA9E-22D9-4411-8632-A3C53BFA6260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarteiraDAL.Tests", "CarteiraDAL.Tests\CarteiraDAL.Tests.csproj", "{6748783B-A6C0-412E-8989-A22B9B36A34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB2EA9E-22D9-4411-8632-A3C53BFA6260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB2EA9E-22D9-4411-8632-A3C53BFA6260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB2EA9E-22D9-4411-8632-A3C53BFA6260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB2EA9E-22D9-4411-8632-A3C53BFA6260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6748783B-A6C0-412E-8989-A22B9B36A34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6748783B-A6C0-412E-8989-A22B9B36A34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6748783B-A6C0-412E-8989-A22B9B36A34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6748783B-A6C0-412E-8989-A22B9B36A34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E720706C-2B5A-462A-9763-F9693E2049CC}
+	EndGlobalSection
+EndGlobal
